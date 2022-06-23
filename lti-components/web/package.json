@@ -19,7 +19,7 @@
     "aws-amplify": "^3.3.26",
     "bootstrap": "^4.6.0",
     "crypto": "^1.0.1",
-    "got": "^11.8.2",
+    "got": "^11.8.5",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
